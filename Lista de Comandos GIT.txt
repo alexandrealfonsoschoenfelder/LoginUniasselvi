@@ -1,0 +1,12 @@
+cd
+ls
+git clone
+git checkout -b alexandre
+
+git status
+git add (nome do arquivo 1)
+git commit -m "Atualização da classe"
+git push origin alexandre
+
+
+https://github.com/alexandrealfonsoschoenfelder/LoginUniasselvi
