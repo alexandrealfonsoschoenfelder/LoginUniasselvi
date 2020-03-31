@@ -1,12 +1,17 @@
 cd
 ls
-git clone
-git checkout -b alexandre
+git clone link do git
+cd (nome do diretorio)
+git checkout -b alexandre (troca usuário) master > alexandre
 
 git status
 git add (nome do arquivo 1)
+git status
 git commit -m "Atualização da classe"
 git push origin alexandre
 
+
+git config --global user.email "alexandrealfonsoschoenfelder@gmail.com"
+git config --global uuser.name "alexandrealfonsoschoenfelder"
 
 https://github.com/alexandrealfonsoschoenfelder/LoginUniasselvi
