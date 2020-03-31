@@ -5,7 +5,7 @@ public class Main {
 		
 		PessoaFisica pessoa1 = new PessoaFisica();
 		pessoa1.setNome("Alexandre");
-		pessoa1.setCpf("110.487.499-75");
+		pessoa1.setCpf("11111111111");
 		
 		System.out.println(pessoa1.getNome());
 
